@@ -13,6 +13,6 @@ Data ukończenia : Dziś XD
 
 Adres strony : 
 
-Deplay : 
+Deplay : Gałąź modyfikowania
 
 Pliki i foldery :
