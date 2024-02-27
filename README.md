@@ -11,8 +11,8 @@ Program : VSC
 
 Data ukończenia : Dziś XD
 
-Adres strony :
+Adres strony : 
 
 Deplay : 
 
-Pliki i foldery
+Pliki i foldery :
